@@ -1,1 +1,2 @@
-# Keyword-Stuffing
+# Keyword Stuffing
+[Keyword stuffing](https://blogchamps.com/keyword-stuffing/) is a search engine optimization (SEO) technique, considered webspam or spamdexing, in which keywords are loaded into a web page's meta tags, visible content, or backlink anchor text in an attempt to gain an unfair rank advantage in search engines. Keyword stuffing may lead to a website being temporarily or permanently banned or penalized on major search engines. 
